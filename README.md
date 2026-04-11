@@ -18,10 +18,8 @@
 - Python (Pandas, NumPy, Matplotlib)
 - R (para análisis estadístico y actuaria)
 
-**En proceso de aprendizaje:**
-- Ecuaciones Diferenciales (SymPy, SciPy)
-
 ---
+
 ### 🛠️ Tecnologías y Herramientas
 
 <p align="left">
@@ -38,6 +36,22 @@
 </p>
 
 ---
+
+### 🌱 Herramientas y temas en proceso de aprendizaje
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="58" alt="C++" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="58" alt="R" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="58" alt="Python" />
+</p>
+
+- **C++** — Programación de alto rendimiento y orientación a objetos
+- **Rcpp** — Integración eficiente entre R y C++
+- **Resolución numérica de Ecuaciones Diferenciales Ordinarias (EDOs)** en C++
+- **SymPy & SciPy** — Solución de sistemas de ecuaciones diferenciales en Python
+
+---
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
