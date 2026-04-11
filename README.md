@@ -11,7 +11,7 @@
 - 🔭 Actualmente estoy cursando el cuarto semestre y enfocándome cada vez más en el área de **Ciencia de Datos**.
 - 🌱 Aprendiendo y explorando: **Modelos basados en Ecuaciones Diferenciales**, Machine Learning y Visualización de Datos.
 - 💡 Me motiva resolver problemas reales combinando matemáticas avanzadas con herramientas de datos.
-- 🎯 Objetivo a largo plazo: Desarrollar proyectos prácticos de modelación matemática.
+- 🎯 Objetivo a corto plazo: Desarrollar proyectos prácticos de modelación matemática.
 
 ### 🛠️ Tecnologías y herramientas
 **Lenguajes y librerías principales:**
@@ -41,8 +41,8 @@
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="58" alt="C++" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="58" alt="R" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="58" alt="Python" />
+  <img src="https://raw.githubusercontent.com/sympy/sympy.github.com/master/static/images/logo.png" width="58" alt="SymPy" />
+  <img src="https://scipy.org/_static/logo.svg" width="58" alt="SciPy" />
 </p>
 
 - **C++** — Programación de alto rendimiento y orientación a objetos
