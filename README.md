@@ -24,10 +24,8 @@
 ---
 ### 🛠️ Tecnologías y Herramientas
 
-**Lenguajes y librerías que manejo:**
-
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,pandas,numpy,matplotlib,scikit-learn,r,rstudio,git,vscode,c,neovim&perline=8&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,pandas,numpy,matplotlib,r,rstudio,git,vscode,neovim,c&perline=7&theme=dark" />
 </p>
 
 ---
