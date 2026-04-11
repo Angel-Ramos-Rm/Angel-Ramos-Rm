@@ -25,16 +25,16 @@
 ### 🛠️ Tecnologías y Herramientas
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python&theme=dark" width="58" alt="Python" />
-  <img src="https://skillicons.dev/icons?i=pandas&theme=dark" width="58" alt="Pandas" />
-  <img src="https://skillicons.dev/icons?i=numpy&theme=dark" width="58" alt="NumPy" />
-  <img src="https://skillicons.dev/icons?i=matplotlib&theme=dark" width="58" alt="Matplotlib" />
-  <img src="https://skillicons.dev/icons?i=r&theme=dark" width="58" alt="R" />
-  <img src="https://skillicons.dev/icons?i=rstudio&theme=dark" width="58" alt="RStudio" />
-  <img src="https://skillicons.dev/icons?i=git&theme=dark" width="58" alt="Git" />
-  <img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="58" alt="VS Code" />
-  <img src="https://skillicons.dev/icons?i=neovim&theme=dark" width="58" alt="Neovim" />
-  <img src="https://skillicons.dev/icons?i=c&theme=dark" width="58" alt="C" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="55" alt="Pandas" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="55" alt="NumPy" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="55" alt="Matplotlib" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="55" alt="R" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" width="55" alt="RStudio" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="55" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="55" alt="VS Code" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="55" alt="C" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neovim/neovim-original.svg" width="55" alt="Neovim" />
 </p>
 
 ---
