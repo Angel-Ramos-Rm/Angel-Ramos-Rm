@@ -25,7 +25,16 @@
 ### 🛠️ Tecnologías y Herramientas
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,pandas,numpy,matplotlib,r,rstudio,git,vscode,neovim,c&perline=7&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python&theme=dark" width="58" alt="Python" />
+  <img src="https://skillicons.dev/icons?i=pandas&theme=dark" width="58" alt="Pandas" />
+  <img src="https://skillicons.dev/icons?i=numpy&theme=dark" width="58" alt="NumPy" />
+  <img src="https://skillicons.dev/icons?i=matplotlib&theme=dark" width="58" alt="Matplotlib" />
+  <img src="https://skillicons.dev/icons?i=r&theme=dark" width="58" alt="R" />
+  <img src="https://skillicons.dev/icons?i=rstudio&theme=dark" width="58" alt="RStudio" />
+  <img src="https://skillicons.dev/icons?i=git&theme=dark" width="58" alt="Git" />
+  <img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="58" alt="VS Code" />
+  <img src="https://skillicons.dev/icons?i=neovim&theme=dark" width="58" alt="Neovim" />
+  <img src="https://skillicons.dev/icons?i=c&theme=dark" width="58" alt="C" />
 </p>
 
 ---
