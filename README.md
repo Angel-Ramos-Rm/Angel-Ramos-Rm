@@ -22,7 +22,15 @@
 - Ecuaciones Diferenciales (SymPy, SciPy)
 
 ---
+### 🛠️ Tecnologías y Herramientas
 
+**Lenguajes y librerías que manejo:**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,pandas,numpy,matplotlib,scikit-learn,r,rstudio,git,vscode,c,neovim&perline=8&theme=dark" />
+</p>
+
+---
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
