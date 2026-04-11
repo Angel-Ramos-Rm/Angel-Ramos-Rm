@@ -41,8 +41,7 @@
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="58" alt="C++" />
-  <img src="https://raw.githubusercontent.com/sympy/sympy.github.com/master/static/images/logo.png" width="58" alt="SymPy" />
-  <img src="https://scipy.org/_static/logo.svg" width="58" alt="SciPy" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Sympy_logo.svg/600px-Sympy_logo.svg.png" width="58" alt="SymPy" />
 </p>
 
 - **C++** — Programación de alto rendimiento y orientación a objetos
