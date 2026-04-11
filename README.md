@@ -11,7 +11,7 @@
 - 🔭 Actualmente estoy cursando el cuarto semestre y enfocándome cada vez más en el área de **Ciencia de Datos**.
 - 🌱 Aprendiendo y explorando: **Modelos basados en Ecuaciones Diferenciales**, Machine Learning y Visualización de Datos.
 - 💡 Me motiva resolver problemas reales combinando matemáticas avanzadas con herramientas de datos.
-- 🎯 Objetivo a corto plazo: Desarrollar proyectos prácticos que integren TDA y modelación matemática.
+- 🎯 Objetivo a largo plazo: Desarrollar proyectos prácticos de modelación matemática.
 
 ### 🛠️ Tecnologías y herramientas
 **Lenguajes y librerías principales:**
