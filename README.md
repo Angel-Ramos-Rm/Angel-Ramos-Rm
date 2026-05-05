@@ -56,5 +56,5 @@
 </p>
 
 <p align="center">
-  Gracias por visitar mi perfil. ¡Estoy abierto a colaboraciones y oportunidades en Ciencia de Datos! 🚀
+  Gracias por visitar mi perfil.
 </p>
