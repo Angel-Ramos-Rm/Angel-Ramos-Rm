@@ -15,7 +15,7 @@
 
 ### 🛠️ Tecnologías y herramientas
 **Lenguajes y librerías principales:**
-- Python (Pandas, NumPy, Matplotlib)
+- Python (Pandas, NumPy, Matplotlib, Streamlit)
 - R (para análisis estadístico y actuaria)
 
 ---
