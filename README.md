@@ -52,7 +52,7 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Angel-Ramos-Rm&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 <p align="center">
