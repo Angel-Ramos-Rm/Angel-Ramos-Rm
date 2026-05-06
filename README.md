@@ -13,14 +13,14 @@
 - 💡 Me motiva resolver problemas reales combinando matemáticas avanzadas con herramientas de datos.
 - 🎯 Objetivo a corto plazo: Desarrollar proyectos prácticos de modelación matemática.
 
+---
+
 ### 🛠️ Tecnologías y herramientas
 **Lenguajes y librerías principales:**
 - Python (Pandas, NumPy, Matplotlib, Streamlit)
 - R (para análisis estadístico y actuaria)
 
 ---
-
-### 🛠️ Tecnologías y Herramientas
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55" alt="Python" />
