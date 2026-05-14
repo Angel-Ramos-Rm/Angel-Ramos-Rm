@@ -1,4 +1,4 @@
-<h1 align="center">¡Hola! 👋 Soy Ángel Gabriel Ramos Mendoza</h1>
+<h1 align="center">Hola, Soy Ángel Gabriel Ramos Mendoza</h1>
 
 <p align="center">
   <strong>Estudiante de 4° semestre de Actuaria y Ciencia de Datos</strong> en la Universidad Michoacana de San Nicolas de Hidalgo.<br>
@@ -8,9 +8,9 @@
 ---
 
 ### 🌟 Sobre mí
-- 🔭 Actualmente estoy cursando el cuarto semestre y enfocándome cada vez más en el área de **Ciencia de Datos**.
-- 🌱 Aprendiendo y explorando: **Modelos basados en Ecuaciones Diferenciales**, Machine Learning y Visualización de Datos.
-- 🎯 Objetivo a corto plazo: Desarrollar proyectos prácticos de modelación matemática.
+-  Actualmente estoy cursando el cuarto semestre y enfocándome cada vez más en el área de **Ciencia de Datos**.
+-  Aprendiendo y explorando: **Modelos basados en Ecuaciones Diferenciales**, Machine Learning y Visualización de Datos.
+-  Objetivo a corto plazo: Desarrollar proyectos prácticos de modelación matemática.
 
 ---
 
