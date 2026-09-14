@@ -1,7 +1,7 @@
 <h1 align="center">Hola, Soy Ángel Gabriel Ramos Mendoza</h1>
 
 <p align="center">
-  <strong>Estudiante de 4° semestre de Actuaria y Ciencia de Datos</strong> en la Universidad Michoacana de San Nicolas de Hidalgo.<br>
+  <strong>Estudiante de 5° semestre de Actuaria y Ciencia de Datos</strong> en la Universidad Michoacana de San Nicolas de Hidalgo.<br>
   Apasionado por la <strong>Ciencia de Datos</strong>, con gran interés en <strong>Análisis Topológico de Datos (TDA)</strong> y <strong>Modelación Matemática con Ecuaciones Diferenciales</strong>.
 </p>
 
