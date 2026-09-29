@@ -1,4 +1,4 @@
-<h1 align="center">Hola, Soy Ángel Gabriel Ramos Mendoza</h1>
+<h1 align="center">Hola, Soy Angel Ramos </h1>
 
 <p align="center">
   <strong>Estudiante de 5° semestre de Actuaria y Ciencia de Datos</strong> en la Universidad Michoacana de San Nicolas de Hidalgo.<br>
