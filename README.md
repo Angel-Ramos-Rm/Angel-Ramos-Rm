@@ -37,11 +37,12 @@
 </p>
 ---
 
-### 🌱 Herramientas y temas en proceso de aprendizaje
+## 🌱 Herramientas y temas en proceso de aprendizaje
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="58" alt="C++" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Sympy_logo.svg/600px-Sympy_logo.svg.png" width="58" alt="SymPy" />
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp" />
+  <img src="https://img.shields.io/badge/SymPy-3B5526?style=for-the-badge&logo=sympy&logoColor=white" alt="SymPy" />
+  <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" alt="SciPy" />
 </p>
 
 - **C++** — Programación de alto rendimiento y orientación a objetos
