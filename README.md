@@ -8,7 +8,7 @@
 ---
 
 ### 🌟 Sobre mí
--  Actualmente estoy cursando el cuarto semestre y enfocándome cada vez más en el área de **Ciencia de Datos**.
+-  Actualmente estoy cursando el quinto semestre y enfocándome cada vez más en el área de **Ciencia de Datos**.
 -  Aprendiendo y explorando: **Modelos basados en Ecuaciones Diferenciales**, Machine Learning y Visualización de Datos.
 -  Objetivo a corto plazo: Desarrollar proyectos prácticos de modelación matemática.
 
@@ -52,8 +52,10 @@
 
 ---
 
+## 📊 Actividad en GitHub
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Angel-Ramos-Rm&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Angel-Ramos-Rm&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Angel-Ramos-Rm&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
