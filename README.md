@@ -14,17 +14,26 @@
 
 ---
 
-### 🛠️ Tecnologías y herramientas
-**Lenguajes y librerías principales:**
-- Python (Pandas, NumPy, Matplotlib, Streamlit)
-- R (para análisis estadístico y actuaria)
+## 🛠️ Tecnologías y herramientas
 
----
+**📊 Análisis de datos**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=py,pandas,numpy,matplotlib,r,git,vscode,c,neovim,linux,ubuntu,bash,lua,sqlite,mysql" />
-  <img src="https://img.shields.io/badge/Zsh-F15A24?style=for-the-badge&logo=zsh&logoColor=white" alt="Zsh" />
+  <img src="https://skillicons.dev/icons?i=py,r,sqlite,mysql,pandas,numpy,matplotlib" />
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
+</p>
+
+**🐧 Entorno de trabajo**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,bash,git,neovim,vscode" />
+  <img src="https://img.shields.io/badge/Zsh-F15A24?style=for-the-badge&logo=zsh&logoColor=white" alt="Zsh" />
+</p>
+
+**⚙️ Programación de bajo nivel y scripting**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=c,lua" />
 </p>
 ---
 
