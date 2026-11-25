@@ -6,8 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="TU_LINK_LINKEDIN">LinkedIn</a> ·
-  <a href="mailto:angel.ramos.mendoza.of@gmail.com">Correo</a> ·
+  <a href="mailto:tucorreo@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
 </p>
 
 ---
