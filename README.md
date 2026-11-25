@@ -5,6 +5,12 @@
   Apasionado por la <strong>Ciencia de Datos</strong>, con gran interés en <strong>Análisis Topológico de Datos (TDA)</strong> y <strong>Modelación Matemática con Ecuaciones Diferenciales</strong>.
 </p>
 
+<p align="center">
+  <a href="TU_LINK_LINKEDIN">LinkedIn</a> ·
+  <a href="mailto:TU_CORREO">Correo</a> ·
+  <a href="https://github.com/Angel-Ramos-Rm/Angel-Ramos-Rm/blob/main/cv/CV-Angel-Ramos.pdf">📄 CV</a>
+</p>
+
 ---
 
 ## 🌟 Sobre mí
@@ -13,19 +19,28 @@
 - Objetivo a corto plazo: desarrollar proyectos prácticos de modelación matemática.
 - 🎯 Objetivo profesional: busco prácticas como **analista de datos** o **modelador estadístico y matemático (EDOs)**.
 
+## 🔭 Trabajando actualmente en
+- Aplicación de **homología persistente y KDE** al análisis de sistemas dinámicos estocásticos (TODO: ajusta a lo que quieras hacer público)
+
 ---
 
 ## 📂 Proyectos destacados
 | Proyecto | Descripción | Stack |
 |---|---|---|
-| [sleep-academic-performance](https://github.com/Angel-Ramos-Rm/sleep-academic-performance) | Análisis de la relación entre hábitos de sueño y rendimiento académico | Python |
+| [sleep-academic-performance](https://github.com/Angel-Ramos-Rm/sleep-academic-performance) | TODO: describe qué analiza tu proyecto | Python |
+| [TODO-repo-2](https://github.com/Angel-Ramos-Rm/TODO-repo-2) | TODO | TODO |
+| [TODO-repo-3](https://github.com/Angel-Ramos-Rm/TODO-repo-3) | TODO | TODO |
 
 ---
 
 ## 🎓 Formación y actividades académicas
 - **Actuaría y Ciencia de Datos**, Universidad Michoacana de San Nicolás de Hidalgo (UMSNH) — 5° semestre
-- **Escuela de Verano de Matemáticas**, UNAM (TODO: año)
-- **Escuela de Invierno de Biología Matemática**, UNAM (TODO: año)
+- **1ª Escuela Michoacana de Biología Matemática: Modelación y Dinámicas de Fenómenos Biológicos**, Centro de Ciencias Matemáticas UNAM Campus Morelia (1–5 dic 2025) — [📄 Constancia](https://github.com/Angel-Ramos-Rm/Angel-Ramos-Rm/blob/main/constancias/escuela-biologia-matematica-2025.pdf)
+- **Escuela de Verano de Matemáticas**, UNAM (TODO: nombre exacto y año) — [📄 Constancia](https://github.com/Angel-Ramos-Rm/Angel-Ramos-Rm/blob/main/constancias/escuela-verano-matematicas-unam.pdf)
+
+## 🌐 Idiomas
+- Español: nativo
+- Inglés: TODO (nivel o certificación)
 
 ---
 
@@ -34,21 +49,21 @@
 **📊 Análisis de datos**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=py,r,sqlite,mysql,pandas,numpy,matplotlib" />
+  <img src="https://skillicons.dev/icons?i=py,r,sqlite,mysql,pandas,numpy,matplotlib,jupyter" />
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
 </p>
 
 **🐧 Entorno de trabajo**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=linux,ubuntu,bash,git,neovim,vscode" />
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,bash,git,github,neovim,vscode,obsidian" />
   <img src="https://img.shields.io/badge/Zsh-F15A24?style=for-the-badge&logo=zsh&logoColor=white" alt="Zsh" />
 </p>
 
-**⚙️ Programación de bajo nivel y scripting**
+**⚙️ Programación de bajo nivel, scripting y documentación**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=c,lua" />
+  <img src="https://skillicons.dev/icons?i=c,lua,latex" />
 </p>
 
 ---
@@ -73,11 +88,6 @@
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=Angel-Ramos-Rm&show_icons=true&theme=tokyonight&hide_border=true" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Angel-Ramos-Rm&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
-
----
-
-## 📫 Contacto
-[LinkedIn](TODO) · [Correo](mailto:TODO)
 
 <p align="center">
   Gracias por visitar mi perfil.
