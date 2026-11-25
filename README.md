@@ -63,6 +63,8 @@
 
 <p>
   <img src="https://skillicons.dev/icons?i=linux,ubuntu,bash,git,github,neovim,vscode,obsidian" />
+</p>
+<p>
   <img src="https://img.shields.io/badge/Zsh-F15A24?style=for-the-badge&logo=zsh&logoColor=white" alt="Zsh" />
 </p>
 
