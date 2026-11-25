@@ -31,7 +31,7 @@
 
 ## 🎓 Formación y actividades académicas
 - **Actuaría y Ciencia de Datos**, Universidad Michoacana de San Nicolás de Hidalgo (UMSNH) — 5° semestre
-- **1ª Escuela Michoacana de Biología Matemática: Modelación y Dinámicas de Fenómenos Biológicos**, Centro de Ciencias Matemáticas UNAM Campus Morelia (1–5 dic 2025) — [📄 Constancia](https://github.com/Angel-Ramos-Rm/Angel-Ramos-Rm/blob/main/constancias/escuela-biologia-matematica-2025.pdf)
+- **1ª Escuela Michoacana de Biología Matemática: Modelación y Dinámicas de Fenómenos Biológicos**, Centro de Ciencias Matemáticas UNAM Campus Morelia (1–5 dic 2025) — [📄 Constancia](https://github.com/Angel-Ramos-Rm/Angel-Ramos-Rm/blob/main/constancias/escuela-biologia-matematica-unam-2025.pdf)
 - **Escuela de Verano de Matemáticas**, Centro de Ciencias Matemáticas UNAM Campus Morelia (28 jul - 1 agos 2025) — [📄 Constancia](https://github.com/Angel-Ramos-Rm/Angel-Ramos-Rm/blob/main/constancias/escuela-verano-matematicas-unam-2025.pdf)
 
 ## 🌐 Idiomas
