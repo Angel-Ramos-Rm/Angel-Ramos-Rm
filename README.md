@@ -1,28 +1,35 @@
-<h1 align="center">Hola, Soy Angel Ramos </h1>
+<h1 align="center">Hola, Soy Angel Ramos</h1>
 
 <p align="center">
-  <strong>Estudiante de 5° semestre de Actuaria y Ciencia de Datos</strong> en la Universidad Michoacana de San Nicolas de Hidalgo.<br>
+  <strong>Estudiante de 5° semestre de Actuaria y Ciencia de Datos</strong> en la Universidad Michoacana de San Nicolás de Hidalgo.<br>
   Apasionado por la <strong>Ciencia de Datos</strong>, con gran interés en <strong>Análisis Topológico de Datos (TDA)</strong> y <strong>Modelación Matemática con Ecuaciones Diferenciales</strong>.
 </p>
 
 ---
 
-### Sobre mí
+## 🌟 Sobre mí
 - Actualmente estoy cursando el quinto semestre y enfocándome cada vez más en el área de **Ciencia de Datos**.
 - Aprendiendo y explorando: **Modelos basados en Ecuaciones Diferenciales**, Machine Learning y Visualización de Datos.
 - Objetivo a corto plazo: desarrollar proyectos prácticos de modelación matemática.
-- 🎯 Objetivo profesional: busco prácticas como **analista de datos / actuario junior** (TODO: ajusta).
+- 🎯 Objetivo profesional: busco prácticas como **analista de datos** o **modelador estadístico y matemático (EDOs)**.
 
 ---
 
 ## 📂 Proyectos destacados
 | Proyecto | Descripción | Stack |
 |---|---|---|
-| [sleep-academic-performance](https://github.com/Angel-Ramos-Rm/sleep-academic-performance) | | Python |
+| [sleep-academic-performance](https://github.com/Angel-Ramos-Rm/sleep-academic-performance) | Análisis de la relación entre hábitos de sueño y rendimiento académico | Python |
 
 ---
 
-## Tecnologías y herramientas
+## 🎓 Formación y actividades académicas
+- **Actuaría y Ciencia de Datos**, Universidad Michoacana de San Nicolás de Hidalgo (UMSNH) — 5° semestre
+- **Escuela de Verano de Matemáticas**, UNAM (TODO: año)
+- **Escuela de Invierno de Biología Matemática**, UNAM (TODO: año)
+
+---
+
+## 🛠️ Tecnologías y herramientas
 
 **📊 Análisis de datos**
 
@@ -43,6 +50,7 @@
 <p>
   <img src="https://skillicons.dev/icons?i=c,lua" />
 </p>
+
 ---
 
 ## 🌱 Herramientas y temas en proceso de aprendizaje
@@ -65,6 +73,11 @@
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=Angel-Ramos-Rm&show_icons=true&theme=tokyonight&hide_border=true" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Angel-Ramos-Rm&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
+
+---
+
+## 📫 Contacto
+[LinkedIn](TODO) · [Correo](mailto:TODO)
 
 <p align="center">
   Gracias por visitar mi perfil.
