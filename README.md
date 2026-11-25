@@ -7,8 +7,7 @@
 
 <p align="center">
   <a href="TU_LINK_LINKEDIN">LinkedIn</a> ·
-  <a href="mailto:TU_CORREO">Correo</a> ·
-  <a href="https://github.com/Angel-Ramos-Rm/Angel-Ramos-Rm/blob/main/cv/CV-Angel-Ramos.pdf">📄 CV</a>
+  <a href="mailto:angel.ramos.mendoza.of@gmail.com">Correo</a> ·
 </p>
 
 ---
@@ -20,27 +19,25 @@
 - 🎯 Objetivo profesional: busco prácticas como **analista de datos** o **modelador estadístico y matemático (EDOs)**.
 
 ## 🔭 Trabajando actualmente en
-- Aplicación de **homología persistente y KDE** al análisis de sistemas dinámicos estocásticos (TODO: ajusta a lo que quieras hacer público)
+- Aplicación de **homología persistente y KDE** al análisis de sistemas dinámicos estocásticos 
 
 ---
 
 ## 📂 Proyectos destacados
 | Proyecto | Descripción | Stack |
 |---|---|---|
-| [sleep-academic-performance](https://github.com/Angel-Ramos-Rm/sleep-academic-performance) | TODO: describe qué analiza tu proyecto | Python |
-| [TODO-repo-2](https://github.com/Angel-Ramos-Rm/TODO-repo-2) | TODO | TODO |
-| [TODO-repo-3](https://github.com/Angel-Ramos-Rm/TODO-repo-3) | TODO | TODO |
+| [sleep-academic-performance](https://github.com/Angel-Ramos-Rm/sleep-academic-performance) | Análisis de la relación entre hábitos de sueño y rendimiento académico | Python |
 
 ---
 
 ## 🎓 Formación y actividades académicas
 - **Actuaría y Ciencia de Datos**, Universidad Michoacana de San Nicolás de Hidalgo (UMSNH) — 5° semestre
 - **1ª Escuela Michoacana de Biología Matemática: Modelación y Dinámicas de Fenómenos Biológicos**, Centro de Ciencias Matemáticas UNAM Campus Morelia (1–5 dic 2025) — [📄 Constancia](https://github.com/Angel-Ramos-Rm/Angel-Ramos-Rm/blob/main/constancias/escuela-biologia-matematica-2025.pdf)
-- **Escuela de Verano de Matemáticas**, UNAM (TODO: nombre exacto y año) — [📄 Constancia](https://github.com/Angel-Ramos-Rm/Angel-Ramos-Rm/blob/main/constancias/escuela-verano-matematicas-unam.pdf)
+- **Escuela de Verano de Matemáticas**, Centro de Ciencias Matemáticas UNAM Campus Morelia (28 jul - 1 agos 2025) — [📄 Constancia](https://github.com/Angel-Ramos-Rm/Angel-Ramos-Rm/blob/main/constancias/escuela-verano-matematicas-unam-2025.pdf)
 
 ## 🌐 Idiomas
 - Español: nativo
-- Inglés: TODO (nivel o certificación)
+- Inglés: 
 
 ---
 
