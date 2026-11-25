@@ -42,8 +42,6 @@
 
 ---
 
-## 🛠️ Tecnologías y herramientas
-
 <details open>
 <summary><h2>🛠️ Tech Stack</h2></summary>
 
