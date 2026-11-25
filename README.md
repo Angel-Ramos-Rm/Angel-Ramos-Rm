@@ -44,48 +44,148 @@
 
 ## 🛠️ Tecnologías y herramientas
 
-**📊 Análisis de datos**
+<details open>
+<summary><h2>🛠️ Tech Stack</h2></summary>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=py,r,sqlite,mysql" />
-</p>
-<p>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" alt="Matplotlib" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
-</p>
+<div align="center">
+<table>
+  <tr>
+    <td align="center" width="150">
+      <img src="https://skillicons.dev/icons?i=py" width="48"><br>
+      <b>Python</b><br>
+      <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"><br>
+      <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"><br>
+      <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white">
+    </td>
+    <td align="center" width="150">
+      <img src="https://skillicons.dev/icons?i=r" width="48"><br>
+      <b>R</b><br>
+      <img src="https://img.shields.io/badge/Estadística-276DC3?style=flat-square">
+    </td>
+    <td align="center" width="150">
+      <img src="https://skillicons.dev/icons?i=sqlite" width="48"><br>
+      <b>SQL</b><br>
+      <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"><br>
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
+    </td>
+    <td align="center" width="150">
+      <img src="https://skillicons.dev/icons?i=mysql" width="48"><br>
+      <b>MySQL</b><br>
+      <img src="https://img.shields.io/badge/Bases_de_datos-4479A1?style=flat-square">
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="150">
+      <img src="https://skillicons.dev/icons?i=jupyter" width="48"><br>
+      <b>Jupyter</b><br>
+      <img src="https://img.shields.io/badge/Notebooks-F37626?style=flat-square">
+    </td>
+    <td align="center" width="150">
+      <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" width="48" height="48"><br>
+      <b>Streamlit</b><br>
+      <img src="https://img.shields.io/badge/Dashboards-FF4B4B?style=flat-square&logo=streamlit&logoColor=white">
+    </td>
+    <td align="center" width="150">
+      <img src="https://skillicons.dev/icons?i=linux" width="48"><br>
+      <b>Linux</b><br>
+      <img src="https://img.shields.io/badge/Sistema-FCC624?style=flat-square&logo=linux&logoColor=black">
+    </td>
+    <td align="center" width="150">
+      <img src="https://skillicons.dev/icons?i=ubuntu" width="48"><br>
+      <b>Ubuntu</b><br>
+      <img src="https://img.shields.io/badge/Distro-E95420?style=flat-square&logo=ubuntu&logoColor=white">
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="150">
+      <img src="https://skillicons.dev/icons?i=bash" width="48"><br>
+      <b>Bash</b><br>
+      <img src="https://img.shields.io/badge/Zsh-F15A24?style=flat-square&logo=zsh&logoColor=white">
+    </td>
+    <td align="center" width="150">
+      <img src="https://skillicons.dev/icons?i=git" width="48"><br>
+      <b>Git</b><br>
+      <img src="https://img.shields.io/badge/Control_de_versiones-F05032?style=flat-square">
+    </td>
+    <td align="center" width="150">
+      <img src="https://skillicons.dev/icons?i=github" width="48"><br>
+      <b>GitHub</b><br>
+      <img src="https://img.shields.io/badge/Portafolio-181717?style=flat-square&logo=github&logoColor=white">
+    </td>
+    <td align="center" width="150">
+      <img src="https://skillicons.dev/icons?i=neovim" width="48"><br>
+      <b>Neovim</b><br>
+      <img src="https://img.shields.io/badge/Editor-57A143?style=flat-square">
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="150">
+      <img src="https://skillicons.dev/icons?i=vscode" width="48"><br>
+      <b>VS Code</b><br>
+      <img src="https://img.shields.io/badge/Editor-007ACC?style=flat-square">
+    </td>
+    <td align="center" width="150">
+      <img src="https://skillicons.dev/icons?i=obsidian" width="48"><br>
+      <b>Obsidian</b><br>
+      <img src="https://img.shields.io/badge/Notas-7C3AED?style=flat-square">
+    </td>
+    <td align="center" width="150">
+      <img src="https://skillicons.dev/icons?i=c" width="48"><br>
+      <b>C</b><br>
+      <img src="https://img.shields.io/badge/Bajo_nivel-A8B9CC?style=flat-square">
+    </td>
+    <td align="center" width="150">
+      <img src="https://skillicons.dev/icons?i=lua" width="48"><br>
+      <b>Lua</b><br>
+      <img src="https://img.shields.io/badge/Scripting-2C2D72?style=flat-square&logo=lua&logoColor=white">
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="150" colspan="4">
+      <img src="https://skillicons.dev/icons?i=latex" width="48"><br>
+      <b>LaTeX</b><br>
+      <img src="https://img.shields.io/badge/Documentación-008080?style=flat-square">
+    </td>
+  </tr>
+</table>
+</div>
 
-**🐧 Entorno de trabajo**
+</details>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=linux,ubuntu,bash,git,github,neovim,vscode,obsidian" />
-</p>
-<p>
-  <img src="https://img.shields.io/badge/Zsh-F15A24?style=for-the-badge&logo=zsh&logoColor=white" alt="Zsh" />
-</p>
+<details open>
+<summary><h2>🌱 En proceso de aprendizaje</h2></summary>
 
-**⚙️ Programación de bajo nivel, scripting y documentación**
+<div align="center">
+<table>
+  <tr>
+    <td align="center" width="150">
+      <img src="https://skillicons.dev/icons?i=cpp" width="48"><br>
+      <b>C++</b><br>
+      <img src="https://img.shields.io/badge/Rcpp-00599C?style=flat-square"><br>
+      <img src="https://img.shields.io/badge/EDOs_numéricas-00599C?style=flat-square">
+    </td>
+    <td align="center" width="150">
+      <img src="https://cdn.simpleicons.org/sympy/6DBE45" width="48" height="48"><br>
+      <b>SymPy</b><br>
+      <img src="https://img.shields.io/badge/Simbólico-3B5526?style=flat-square&logo=sympy&logoColor=white">
+    </td>
+    <td align="center" width="150">
+      <img src="https://cdn.simpleicons.org/scipy/8CAAE6" width="48" height="48"><br>
+      <b>SciPy</b><br>
+      <img src="https://img.shields.io/badge/EDOs-8CAAE6?style=flat-square&logo=scipy&logoColor=white">
+    </td>
+  </tr>
+</table>
+</div>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=c,lua,latex" />
-</p>
-
----
-
-## 🌱 Herramientas y temas en proceso de aprendizaje
-
-<p>
-  <img src="https://skillicons.dev/icons?i=cpp" />
-  <img src="https://img.shields.io/badge/SymPy-3B5526?style=for-the-badge&logo=sympy&logoColor=white" alt="SymPy" />
-  <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" alt="SciPy" />
-</p>
+</details>
 
 - **C++** — Programación de alto rendimiento y orientación a objetos
 - **Rcpp** — Integración eficiente entre R y C++
 - **Resolución numérica de Ecuaciones Diferenciales Ordinarias (EDOs)** en C++
 - **SymPy & SciPy** — Solución de sistemas de ecuaciones diferenciales en Python
+
+
 
 ---
 
