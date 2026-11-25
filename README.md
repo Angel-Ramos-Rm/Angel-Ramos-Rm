@@ -6,7 +6,9 @@
 </p>
 
 <p align="center">
-  <a href="mailto:tucorreo@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="mailto:angel.ramos.mendoza.of@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <br>
+  <sub>angel.ramos.mendoza.of@gmail.com</sub>
 </p>
 
 ---
