@@ -7,14 +7,22 @@
 
 ---
 
-### 🌟 Sobre mí
--  Actualmente estoy cursando el quinto semestre y enfocándome cada vez más en el área de **Ciencia de Datos**.
--  Aprendiendo y explorando: **Modelos basados en Ecuaciones Diferenciales**, Machine Learning y Visualización de Datos.
--  Objetivo a corto plazo: Desarrollar proyectos prácticos de modelación matemática.
+### Sobre mí
+- Actualmente estoy cursando el quinto semestre y enfocándome cada vez más en el área de **Ciencia de Datos**.
+- Aprendiendo y explorando: **Modelos basados en Ecuaciones Diferenciales**, Machine Learning y Visualización de Datos.
+- Objetivo a corto plazo: desarrollar proyectos prácticos de modelación matemática.
+- 🎯 Objetivo profesional: busco prácticas como **analista de datos / actuario junior** (TODO: ajusta).
 
 ---
 
-## 🛠️ Tecnologías y herramientas
+## 📂 Proyectos destacados
+| Proyecto | Descripción | Stack |
+|---|---|---|
+| [sleep-academic-performance](https://github.com/Angel-Ramos-Rm/sleep-academic-performance) | | Python |
+
+---
+
+## Tecnologías y herramientas
 
 **📊 Análisis de datos**
 
